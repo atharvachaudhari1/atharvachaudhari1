@@ -1,71 +1,93 @@
-# 👋 Hey, I’m Atharva Chaudhari
+<!-- ===================== HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&section=header&text=Atharva%20Chaudhari&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🎓 **B.Tech – Electronics & Computer Science** (Expected 2028)  
+<h3 align="center">
+Electronics & Computer Science Engineer • Hackathon Winner • System Builder
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvachaudhari1&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/atharvachaudhari1?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/atharvachaudhari1?label=Stars&style=flat" />
+</p>
+
+---
+
+## 🧠 About Me
+🎓 **B.Tech – Electronics & Computer Science (Expected 2028)**  
 🏫 Fr. Conceicao Rodrigues College of Engineering (FRCRCE), Bandra, Mumbai  
-💡 Building tech at the intersection of **software, hardware & impact**
+💡 I build **impact-driven systems** combining software, hardware, and data.
+
+- 🥇 **Winner – Smart India Hackathon 2025 (Grand Finale)**
+- 🚀 Finalist – Central India Hackathon 2026 (2,500+ applicants)
+- 🔭 Exploring **AI, IoT, Embedded Systems & Full-Stack Web**
+- 🎥 **Media Head @ NSS FRCRCE**
+- 🤝 Strong believer in teamwork, learning, and execution
 
 ---
 
-## 🚀 About Me
-I’m an engineering student who enjoys turning real-world problems into scalable tech solutions.  
-From **AI + IoT systems** to **full-stack platforms**, I like working on projects that matter.
-
-- 🔭 Exploring **AI, IoT, Embedded Systems & Web Technologies**
-- 🧠 Strong foundation in **problem-solving & system design**
-- 🎥 **Media Head @ NSS FRCRCE** — leading creative, technical & event media
-- 🤝 Team player with experience in **national-level hackathons**
-- 🌱 Always learning, building, and contributing
+## 🛠️ Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,sql,flutter,django,flask,nodejs,git,linux,arduino&perline=7" />
+</p>
 
 ---
 
-## 🏆 Achievements
-- 🥇 **Winner – Smart India Hackathon 2025 (Grand Finale)**  
-- 🏅 Best Social Media Presence – **HackCelestial 2.0 (2025)** (400+ teams)
-- 🚀 Finalist – **Central India Hackathon 2026** (2,500+ applicants)
-- 🚀 Finalist – HackOverflow 2026, BugBuster 2.0 (Hardware Hackathon)
+## 📊 GitHub Analytics
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atharvachaudhari1&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvachaudhari1&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvachaudhari1&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**  
-`C` `Java` `Python` `JavaScript` `HTML` `CSS` `SQL`
+## 🧩 Featured Projects
+🚀 **Ocean Hazard Detection & Response System**  
+AI + IoT powered mobile & web platform (Flutter, Flask, REST APIs)  
+🥇 Ranked **1st** – Smart India Hackathon Internal Round (CRCE)
 
-**Frameworks & Tools**  
-`Flutter` `Django` `Flask` `Node.js` `Git` `Linux` `Arduino`
+🌍 **Comprehensive Disaster Management Portal**  
+Full-stack Django platform for crowdsourced disaster data collection & visualization
 
-**Domains**  
-Embedded Systems • IoT • Full-Stack Web • AI/ML • System Automation
+⛏️ **EHS Simba Drill Automation System**  
+RF-based ML + IoT system for underground mining safety  
+🛡️ *IP Registered – Ministry of Mines, Government of India*
 
----
-
-## 📌 Featured Projects
-- 🌊 **Ocean Hazard Detection & Response System**  
-  Mobile + web platform using Flutter, Flask & REST APIs  
-  🥇 Ranked 1st – SIH Internal Round (CRCE)
-
-- 🌍 **Comprehensive Disaster Management Portal**  
-  Full-stack Django platform for crowdsourced disaster data & visualization
-
-- ⛏️ **EHS Simba Drill Automation System**  
-  RF-based ML & IoT solution for underground mining safety  
-  🛡️ IP registered with Ministry of Mines, Govt. of India
-
-- 💰 **The Financial Gearbox**  
-  Financial analytics & visualization platform
+💰 **The Financial Gearbox**  
+Financial analytics & visualization platform
 
 ---
 
-## 📈 GitHub Stats
-![Atharva's GitHub stats](https://github-readme-stats.vercel.app/api?username=atharvachaudhari1&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvachaudhari1&layout=compact&theme=tokyonight)
+## 🏆 Achievements & Recognition
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=atharvachaudhari1&theme=onestar&row=1&column=6" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atharva%20Chaudhari-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/atharva-chaudhari-89a469329/)
-[![Email](https://img.shields.io/badge/Email-chaudhariatharva010%40gmail.com-red?style=flat&logo=gmail)](mailto:chaudhariatharva010@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-@jalgaon_cha_athya_-pink?style=flat&logo=instagram)](https://www.instagram.com/jalgaon_cha_athya_/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/atharva-chaudhari-89a469329/">
+    <img src="https://img.shields.io/badge/LinkedIn-Atharva%20Chaudhari-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:chaudhariatharva010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/jalgaon_cha_athya_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
 ---
 
-⭐ *Build systems. Solve problems. Create impact.*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" />
+</p>
+
+⭐ *Build systems. Solve real problems. Create impact.*
