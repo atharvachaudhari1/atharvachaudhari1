@@ -59,21 +59,79 @@
 ---
 
 ## 🧩 Featured Systems
-🚀 **Ocean Hazard Detection & Response System**  
-AI + IoT powered mobile & web platform  
-🥇 SIH Internal Round Rank #1  
 
-🌍 **Disaster Management Portal**  
-Crowdsourced Django platform for disaster intelligence  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-⛏️ **EHS Simba Drill Automation System**  
-ML + RF + IoT mining safety system  
-🛡️ IP Registered – Govt. of India  
+### 🌊 Ocean Hazard Detection & Response System
+**AI • IoT • Mobile + Web**
 
-💰 **The Financial Gearbox**  
-Financial analytics & visualization engine  
+🔹 Real-time ocean hazard monitoring & emergency response  
+🔹 Built using **Flutter, Flask, REST APIs**  
+🔹 Location-based alerts & authority coordination  
+
+🏆 **Smart India Hackathon 2025 – Winner (Grand Finale)**  
+🥇 Ranked **1st** – Internal Round (CRCE)
+
+🔗 Repo: https://github.com/atharvachaudhari1/ocean-hazard-detection
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌍 Comprehensive Disaster Management Portal
+**Full-Stack • Crowdsourced Intelligence**
+
+🔹 Disaster data collection from citizens  
+🔹 Interactive dashboards & analytics  
+🔹 REST-based backend with real-time updates  
+
+🛠 Tech: **Django, Bootstrap 5, REST APIs**  
+🚀 Designed for scalable disaster response
+
+🔗 Repo: https://github.com/atharvachaudhari1/disaster-management-portal
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⛏️ EHS Simba Drill Automation System
+**ML • RF • IoT • Embedded**
+
+🔹 Underground mining safety automation  
+🔹 ML-driven risk detection  
+🔹 RF-based communication system  
+
+🛡️ **IP Registered**  
+Ministry of Mines, Government of India  
+🚫 *Private repository (IP protected)*
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💰 The Financial Gearbox
+**Data • Analytics • Visualization**
+
+🔹 Financial tracking & insights platform  
+🔹 Data visualization dashboards  
+🔹 Modular & scalable architecture  
+
+🛠 Tech: **Web Technologies + Data Analytics**
+
+🔗 Repo: https://github.com/atharvachaudhari1/the-financial-gearbox
+
+</td>
+</tr>
+</table>
+
 
 ## 🏆 Achievements Visual
 <p align="center">
