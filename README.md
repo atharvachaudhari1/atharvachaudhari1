@@ -15,7 +15,7 @@
 
 ---
 
-## 🧠 Who Am I (TL;DR)
+## 🧠 Who Am I 
 🎓 **B.Tech – Electronics & Computer Science (2028)**  
 🏫 FRCRCE, Bandra, Mumbai  
 💡 Turning **ideas → systems → impact**
