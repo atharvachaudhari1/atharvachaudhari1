@@ -1,9 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0EA5E9,100:38BDF8&height=180&section=header&text=Atharva%20Chaudhari&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Electronics%20%26%20Computer%20Science%20Engineer&descAlignY=58&descSize=16&descColor=94A3B8" width="100%" />
 
-<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Impact-Driven+Systems;SIH+2025+Grand+Finale+Winner+%F0%9F%8F%86;AI+%C2%B7+IoT+%C2%B7+Embedded+%C2%B7+Full-Stack;Turning+Ideas+%E2%86%92+Systems+%E2%86%92+Impact)](https://git.io/typing-svg)
 
