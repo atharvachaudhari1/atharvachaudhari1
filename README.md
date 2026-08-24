@@ -13,36 +13,75 @@
 <div align="center">
   <a href="mailto:chaudhariatharva010@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/atharva-chaudhari"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/atharvachaudhari1"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 B.Tech in Electronics & Computer Science from Fr. CRCE, Mumbai (Class of 2028).
-* 💼 Previously a **Web Development Intern** at Fr. CRCE, developing the ECS Mentoring System.
-* 🏆 **Winner** at Smart India Hackathon 2025 (National Level) & Domain Winner (Web Dev) at DEV HACKS 2026.
-* 💡 Currently focused on **Full Stack Web Development**, **IoT Systems**, and **Machine Learning**.
-* ⚡ Fun Fact: I have an Intellectual Property registered under the Ministry of Mines, Government of India!
+I am a passionate **Electronics & Computer Science Engineer** and a **Full Stack Web Developer** who loves solving complex problems through code. I am highly interested in Embedded Systems, IoT, Machine Learning, and participating in Hackathons. Currently, I am serving as the **Mumbai Chapter Lead - Ignite Room**.
+
+* 🎓 **B.Tech in Electronics & Computer Science** from Fr. Conceicao Rodrigues College of Engineering (Class of 2028).
+* 💼 **Web Development Intern** at Fr. CRCE, developing the ECS Mentoring System.
+* 🏆 **Winner** at Smart India Hackathon 2025 (National Level, Government of India).
+* ⚡ **Fun Fact**: I have an Intellectual Property registered under the Ministry of Mines, Government of India!
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,html,css,js,nodejs,sql,flutter,git,github,python,react,bootstrap&perline=10" alt="Tech Stack" />
 </p>
 
+* **Languages & Frameworks:** C, Java, HTML, CSS, JavaScript, Node.js, SQL, Flutter, Python, Django.
+* **Concepts & Tools:** IoT Systems, Machine Learning, REST APIs, Git, GitHub, Firebase, Embedded Systems.
+* **Relevant Coursework:** Data Structures & Algorithms, DBMS, Discrete Structures & Automata Theory, Computer Networks, Linear Algebra & Numerical Methods.
+
 ---
 
-### 🚀 Featured Projects
+### 💼 Experience
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Ocean Hazard Detection System** | Real-time ocean hazard monitoring and emergency response platform. Ranked 1st in SIH 2025 internal round. | Flutter, Flask, Firebase, REST APIs |
-| **ECS Mentoring System** | Mentoring platform for structured student-faculty interaction, adopted by 100+ students. | Node.js, HTML, CSS, JS, SQL |
-| **EHS Simba Drill Automation** | RF-based IoT automation system for underground mining safety with ML anomaly detection. | IoT, Machine Learning, Embedded C, Python |
-| **Disaster Management Portal** | Crowdsourced data platform enabling real-time coordination during emergencies. | Django, Python, Bootstrap, SQL |
+**Web Development Intern** @ *Fr. Conceicao Rodrigues College of Engineering, Mumbai* (2025)
+* Developed and deployed the **ECS Mentoring System**, actively adopted by **100+ students** within the first semester.
+* Built robust backend REST APIs to manage student-faculty interactions and structured workflows.
+* Collaborated with faculty stakeholders to iteratively improve platform usability and adoption.
+
+---
+
+### 🚀 Key Projects
+
+| Project | Description | Tech Stack | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Ocean Hazard Detection & Response System** | Real-time ocean hazard monitoring and emergency response platform with live alerting and geolocation services. | `Flutter`, `Flask`, `Firebase`, `REST APIs` | 🏆 **Ranked 1st** in SIH 2025 internal round. Advanced to national finals. |
+| **ECS Mentoring System** | Mentoring platform for structured student-faculty interaction. | `Node.js`, `SQL`, `HTML/CSS/JS` | 🚀 Deployed as official college tool. Adopted by 100+ students. |
+| **EHS Simba Drill Automation** | RF-based IoT automation system for underground mining safety with ML anomaly detection. | `IoT`, `ML`, `Embedded C`, `Python` | 📜 **Intellectual Property** registered under Ministry of Mines, Govt of India. |
+| **Comprehensive Disaster Management Portal** | Crowdsourced data platform enabling real-time coordination and data aggregation pipelines during emergencies. | `Django`, `Python`, `Bootstrap`, `SQL` | 🌍 Enabled structured coordination across multiple emergency scenarios. |
+| **The Financial Gearbox** | Personal finance tracking platform with interactive dashboards for expense and investment analytics. | `HTML/CSS/JS`, `Chart.js`, `REST APIs` | 📊 Delivered clean data visualization for personal financial planning. |
+
+---
+
+### 🏆 Competitions & Achievements
+
+* 🥇 **Winner** - Smart India Hackathon 2025 (National Level, Government of India)
+* 🥉 **2nd Runner-Up** - HackOverflow 2026 (Pillai HOC College of Engineering & Technology)
+* 🥉 **2nd Runner-Up** - HawkAthon (Universal AI University)
+* 💻 **Domain Winner (Web Dev)** - DEV HACKS 2026 (Atharva College of Engineering)
+* 🌟 **Best Social Media Presence** - HackCelestial 2.0 (400+ competing teams)
+* 🎯 **Top 10 Finalist** - HackVision | Innov8 TERNA | Nirvana Ideathon
+* 🎯 **Top 15 Finalist** - KnowCode 3.0
+* 🚀 **Finalist** - Central India Hackathon 3.0 (2500+ applicants) | BugBuster 2.0 Hardware Hackathon | SPIT Hacks | Airavat 2.0 | Quasar 4.0
+
+---
+
+### 🌟 Leadership & Volunteering
+
+* **Mumbai Chapter Lead** - Ignite Room (2026)
+* **Head of Media** - NSS, CRCE
+* **Media & Management Executive** - CRCE Rocket Team
+* **Co-Lead, Media** - Robix CRCE
+* **Volunteer** - Aaji Care Old Age Home (6-months) & Heart & Soul Run 5, Rotaract Club of CRCE
 
 ---
 
