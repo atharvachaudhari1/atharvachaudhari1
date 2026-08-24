@@ -271,54 +271,7 @@ fun_fact: >
 
 <br/>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/atharvachaudhari1">
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=atharvachaudhari1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/atharvachaudhari1">
-    <img height="180" src="https://streak-stats.demolab.com?user=atharvachaudhari1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/atharvachaudhari1">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atharvachaudhari1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📈  CONTRIBUTION GRAPH                                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<p align="center">
-  <a href="https://github.com/atharvachaudhari1">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvachaudhari1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Atharva's%20Contribution%20Graph" alt="Contribution Graph" />
-  </a>
-</p>
-
-<br/>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/atharvachaudhari1">
-    <img src="https://github-profile-trophy.vercel.app/?username=atharvachaudhari1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<br/>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🎨  ANIMATED FOOTER                                                -->
