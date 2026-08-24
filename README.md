@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:6C63FF&height=220&section=header&text=Atharva%20Chaudhari&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Electronics%20%26%20Computer%20Science%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:6C63FF&height=220&section=header&text=Atharva%20Chaudhari&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Electronics%20and%20Computer%20Science%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
