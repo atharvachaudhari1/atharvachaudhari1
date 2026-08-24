@@ -10,49 +10,47 @@
 <!-- ✨  TYPING ANIMATION                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Atharva+Chaudhari;%F0%9F%92%BB+Full+Stack+Developer+%7C+IoT+Enthusiast;%F0%9F%8F%86+SIH+2025+National+Winner;%F0%9F%9A%80+Building+things+that+matter)](https://git.io/typing-svg)
-
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%91%8B+Hey+there!+I'm+Atharva+Chaudhari;%F0%9F%92%BB+Full+Stack+Developer+%7C+IoT+Enthusiast;%F0%9F%8F%86+SIH+2025+National+Winner;%F0%9F%9A%80+Building+things+that+matter" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 📊  PROFILE BADGES                                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=atharvachaudhari1&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-  [![GitHub followers](https://img.shields.io/github/followers/atharvachaudhari1?style=for-the-badge&color=6C63FF&labelColor=0D1117)](https://github.com/atharvachaudhari1)
-  [![GitHub stars](https://img.shields.io/github/stars/atharvachaudhari1?style=for-the-badge&color=6C63FF&labelColor=0D1117)](https://github.com/atharvachaudhari1)
-
-</div>
-
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvachaudhari1&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/atharvachaudhari1?tab=followers">
+    <img src="https://img.shields.io/github/followers/atharvachaudhari1?style=for-the-badge&color=6C63FF&labelColor=0D1117" alt="Followers" />
+  </a>
+  <a href="https://github.com/atharvachaudhari1?tab=stars">
+    <img src="https://img.shields.io/github/stars/atharvachaudhari1?style=for-the-badge&color=6C63FF&labelColor=0D1117" alt="Stars" />
+  </a>
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🔗  SOCIAL LINKS                                                   -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+<p align="center">
   <a href="mailto:chaudhariatharva010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
-  <a href="https://linkedin.com/in/atharva-chaudhari">
+  <a href="https://www.linkedin.com/in/atharva-chaudhari-89a469329/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;
   <a href="https://github.com/atharvachaudhari1">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-</div>
+</p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 👨‍💻  ABOUT ME                                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Atharva Chaudhari
@@ -79,15 +77,14 @@ fun_fact: >
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🛠️  TECH STACK                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-### Languages
+**Languages**
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -95,35 +92,36 @@ fun_fact: >
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### Frontend
+**Frontend**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Backend & Database
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-</div>
+</p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 💼  EXPERIENCE                                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="25"> &nbsp;Experience
+## 💼 Experience
 
 <table>
   <tr>
@@ -142,13 +140,9 @@ fun_fact: >
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🚀  FEATURED PROJECTS                                              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp;Featured Projects
-
-<div align="center">
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -234,15 +228,11 @@ fun_fact: >
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏆  ACHIEVEMENTS & COMPETITIONS                                    -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="25"> &nbsp;Achievements & Competitions
+## 🏆 Achievements & Competitions
 
 <div align="center">
 
@@ -262,52 +252,9 @@ fun_fact: >
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🏆  GITHUB TROPHIES                                                -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-## <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="25"> &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atharvachaudhari1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📊  GITHUB STATS                                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> &nbsp;GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=atharvachaudhari1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true&cache_seconds=7200" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=atharvachaudhari1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvachaudhari1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8&cache_seconds=7200" alt="Top Languages" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 📈  CONTRIBUTION GRAPH                                             -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvachaudhari1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Atharva's%20Contribution%20Graph" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 🌟  LEADERSHIP & VOLUNTEERING                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## <img src="https://media.giphy.com/media/CMWlGBOQjk1GMPp7EN/giphy.gif" width="25"> &nbsp;Leadership & Volunteering
+## 🌟 Leadership & Volunteering
 
 <div align="center">
 
@@ -324,20 +271,57 @@ fun_fact: >
 
 <br/>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/atharvachaudhari1">
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=atharvachaudhari1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/atharvachaudhari1">
+    <img height="180" src="https://streak-stats.demolab.com?user=atharvachaudhari1&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/atharvachaudhari1">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=atharvachaudhari1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  </a>
+</p>
+
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- 💬  RANDOM DEV QUOTE                                               -->
+<!-- 📈  CONTRIBUTION GRAPH                                             -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
+<p align="center">
+  <a href="https://github.com/atharvachaudhari1">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvachaudhari1&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area_color=6C63FF&area=true&hide_border=true&custom_title=Atharva's%20Contribution%20Graph" alt="Contribution Graph" />
+  </a>
+</p>
 
 <br/>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/atharvachaudhari1">
+    <img src="https://github-profile-trophy.vercel.app/?username=atharvachaudhari1&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🎨  ANIMATED FOOTER                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:6C63FF&height=120&section=footer" />
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:6C63FF&height=120&section=footer" />
