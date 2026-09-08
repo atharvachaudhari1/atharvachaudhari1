@@ -239,7 +239,7 @@ fun_fact: >
 | 🏅 Award | 🎪 Event | 🏛️ Organizer |
 | :--- | :--- | :--- |
 | 🥇 **Winner** | Smart India Hackathon 2025 | Government of India (National Level) |
-| 🥉 **2nd Runner-Up** | HackOverflow 2026 | Pillai HOC College of Engineering |
+| 🥉 **Sotial Media Presense Aword** | HackOverflow 2026 | Pillai HOC College of Engineering |
 | 🥉 **2nd Runner-Up** | HawkAthon | Universal AI University |
 | 💻 **Domain Winner (Web Dev)** | DEV HACKS 2026 | Atharva College of Engineering |
 | 🌟 **Best Social Media Presence** | HackCelestial 2.0 | 400+ competing teams |
