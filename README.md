@@ -1,3 +1,4 @@
+```html
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- 🎨  ANIMATED HEADER                                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
@@ -21,7 +22,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atharvachaudhari1&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/atharvachaudhari1?tab=followers">
     <img src="https://img.shields.io/github/followers/atharvachaudhari1?style=for-the-badge&color=6C63FF&labelColor=0D1117" alt="Followers" />
   </a>
@@ -149,6 +149,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 ### 🌊 Ocean Hazard Detection System
+
 > Real-time ocean hazard monitoring & emergency response platform with live alerting and geolocation services.
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -162,6 +163,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 ### 🎓 ECS Mentoring System
+
 > Mentoring platform for structured student-faculty interaction, deployed as official college tool.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -173,10 +175,12 @@ fun_fact: >
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### ⛏️ EHS Simba Drill Automation
+
 > RF-based IoT automation system for underground mining safety with ML anomaly detection.
 
 ![IoT](https://img.shields.io/badge/IoT-010101?style=flat-square&logo=arduino&logoColor=white)
@@ -190,6 +194,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 ### 🌍 Disaster Management Portal
+
 > Crowdsourced data platform enabling real-time coordination during emergencies.
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -201,10 +206,12 @@ fun_fact: >
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 💰 The Financial Gearbox
+
 > Personal finance tracking platform with interactive dashboards for expense & investment analytics.
 
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -218,6 +225,7 @@ fun_fact: >
 <td width="50%" valign="top">
 
 ### 🔮 More Projects Coming Soon...
+
 > I'm always building something new. Check my repositories for the latest work!
 
 <br/>
@@ -274,7 +282,7 @@ fun_fact: >
 ---
 
 <div align="center">
-  
+
   ### 💭 *"First, solve the problem. Then, write the code."* — John Johnson
 
 </div>
@@ -286,3 +294,4 @@ fun_fact: >
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1b27,100:6C63FF&height=120&section=footer" />
+```
